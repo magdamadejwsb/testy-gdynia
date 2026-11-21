@@ -1,0 +1,11 @@
+# wirtualne środowisko
+.venv/
+
+# pliki i katalogi kpythona
+__pycache__
+
+# pliki systemowe
+# macOS
+.DS_Store 
+# Windows
+Thumbs.db
